@@ -16,8 +16,10 @@ Step by Step of Code:
 After that, we have:
 - Example with a Binaty String (8 bits with values: 0 and 1)
 
-
 About Customized Functions to this Experiment:
 - 1: Function to Convert Character into a Binary
 - 2: Function to Convert a String Hash to Binary and Split into a List
 - 3: Function to Convert ASCII values into String
+
+To validate this experiment, we have the Hamming Distance:
+https://www.geeksforgeeks.org/hamming-distance-two-strings/
