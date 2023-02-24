@@ -4,7 +4,7 @@ All the information
 
 Informações sobre as Bases de Imagens que serão utilizadas nos Experimentos:
 
-- Lenna Database (01 Imagem Original e 20 Variações): 21 Imagens
+- <b> Lenna Database </b> (01 Imagem Original e 20 Variações): 21 Imagens
 - Washington Database (01 Imagem Original e 06 Variações): 7 Imagens
 
 Ambas as Bases de Imagens Lenna e Washington foram extraídas da publicação: Images from Digital Image Processing, 3rd ed, by Gonzalez and Woods. Disponível no Link: https://imageprocessingplace.com/root_files_V3/image_databases.htm
