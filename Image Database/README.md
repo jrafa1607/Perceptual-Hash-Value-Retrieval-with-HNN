@@ -1,25 +1,23 @@
-# HNN-to-Content-Based-Hash-Retrieval
+# Database Information 
 
-Hopfield Neural Network to Content-Bases Hash Retrieval Information 
+All the information 
 
-- Example of Application: https://ieeexplore.ieee.org/document/8623902
-- Hopfield Neural Network Description: http://www2.decom.ufop.br/imobilis/redes-de-hopfield/
-- Table ASCII: https://www.ime.usp.br/~kellyrb/mac2166_2015/tabela_ascii.html
+Informações sobre as Bases de Imagens que serão utilizadas nos Experimentos:
 
-Step by Step of Code:
+- Lenna Database (01 Imagem Original e 20 Variações): 21 Imagens
+- Washington Database (01 Imagem Original e 06 Variações): 7 Imagens
 
-- 1: Import of Libraries
-- 2: Definition of Activation Function (In this case, Bipolar)
-- 3: Definition of a Retrive Matrix
-- 4: Create a structure of HNN, WIth the Train Step and the Call of Retrive Matrix Function
+Ambas as Bases de Imagens Lenna e Washington foram extraídas da publicação: Images from Digital Image Processing, 3rd ed, by Gonzalez and Woods. Disponível no Link: https://imageprocessingplace.com/root_files_V3/image_databases.htm
 
-After that, we have:
-- Example with a Binaty String (8 bits with values: 0 and 1)
+- PalaceDatabase (01 Imagem Original e 30 Variações): 31 Imagens
+- MountainDatabase (01 Imagem Original e 30 Variações): 31 Imagens
 
-About Customized Functions to this Experiment:
-- 1: Function to Convert Character into a Binary
-- 2: Function to Convert a String Hash to Binary and Split into a List
-- 3: Function to Convert ASCII values into String
+Ambas as bases de Imagens Palace e foram extraídas do Dataset: SUID: Synthetic Underwater Image Dataset. Disponível no Link: https://ieee-dataport.org/open-access/suid-synthetic-underwater-image-dataset
 
-To validate this experiment, we have the Hamming Distance:
-https://www.geeksforgeeks.org/hamming-distance-two-strings/
+- DeviceDabatase (02 Imagens Originais e 06 Variações): 08 Imagens
+
+A base DeviceDatabase foi extraída do Dataset: WESPE: Weakly Supervised Photo Enhancer for Digital Cameras. Disponível no Link: http://people.ee.ethz.ch/~ihnatova/wespe.html
+
+- ParkDatabase (01 Imagem Original e 10 Variações): 11 Imagens
+
+A base ParkDatabase foi extraída do Dataset: CoMoFoD - Image Database for Copy-Move Forgery Detection. Disponível no Link: https://www.vcl.fer.hr/comofod/download.html
