@@ -1,4 +1,4 @@
-# Database Information 
+# Databases Information 
 
 All the information about the Databases would be used in the Experiments.
 
