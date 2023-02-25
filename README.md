@@ -5,6 +5,7 @@ Hopfield Neural Network to Content-Bases Hash Retrieval Information
 - Example of Application: https://ieeexplore.ieee.org/document/8623902
 - Hopfield Neural Network Description: http://www2.decom.ufop.br/imobilis/redes-de-hopfield/
 - Table ASCII: https://www.ime.usp.br/~kellyrb/mac2166_2015/tabela_ascii.html
+- Overfitting and Underfitting Explanation: https://didatica.tech/underfitting-e-overfitting/
 
 Step by Step of Code:
 
