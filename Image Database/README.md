@@ -12,10 +12,6 @@ Both LennaDatabase and WashingtonDatabase are selected from the publication: Ima
 
 Both PalaceDatabase and MountainDatabase were selected from the Dataset: SUID: Synthetic Underwater Image Dataset. Available at Link: https://ieee-dataport.org/open-access/suid-synthetic-underwater-image-dataset
 
-- <b> DeviceDabatase </b> (02 Original Image and 06 Alternative): 08 Images
-
-The DeviceDatabase was extracted from the Dataset: WESPE: Weakly Supervised Photo Enhancer for Digital Cameras. Available at Link: http://people.ee.ethz.ch/~ihnatova/wespe.html
-
 - <b> ParkDatabase </b> (01 Original Image and 10 Alternative): 11 Images
 
 The ParkDatabase was selected from the Dataset: CoMoFoD - Image Database for Copy-Move Forgery Detection. Available at Link: https://www.vcl.fer.hr/comofod/download.html
