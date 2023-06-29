@@ -24,7 +24,13 @@ O Objetivo do experimento foi Recuperar o valor Hash das Imagens Alteradas com a
 - Hash Original: ABC01234
 - Hash Alterado: ABC01222
 
-O Treinamento das Redes Neurais de Hopfield foi realizado com os Valores Originais, para que assim, quando um valor alterado fosse fornecido como entrada, a saída fosse o valor correto do Hash. Todas as bases de imagens utilizadas nesse experimento estão disponíveis [nesse repositório](https://github.com/jrafa1607/HNN-to-Content-Based-Hash-Retrieval/tree/main/Image%20Database)
+O Treinamento das Redes Neurais de Hopfield foi realizado com os Valores Originais, para que assim, quando um valor alterado fosse fornecido como entrada, a saída fosse o valor correto do Hash.
+
+- Hash Original: ABC01234
+- Hash Alterado: ABC01222
+- Hash Recuperado com Hopfield: ABC01234
+
+Todas as bases de imagens utilizadas nesse experimento estão disponíveis [nesse repositório](https://github.com/jrafa1607/HNN-to-Content-Based-Hash-Retrieval/tree/main/Image%20Database)
 
 ####  LennaDatabase e WashingtonDatabase
 As Bases LennaDatabase e WashingtonDatabase foram selecionadas da publicação: <b> Images from Digital Image Processing, 3rd ed, by Gonzalez and Woods.</b> Disponível no Link: https://imageprocessingplace.com/root_files_V3/image_databases.htm
@@ -41,40 +47,19 @@ A Base ParkDatabase foi selecionada na Base de Imagens: <b> CoMoFoD - Image Data
 - [x] ParkDatabase (11 Imagens)
 
 
-## Sobre as Automações
-### 📊📝 Automações para Visão Computacional com Python
-Para realizar os experimentos, foram desenvolvidos duas automações em Python:
-- [x] <b>Perceptual Hashing Evaluation:</b> Automação responsável por Calcular a distância de Hamming entre os 6 Tipos de Hash Perceptivo e a Imagem Original
-- [x] <b>Distance Calc (Euclidean & Manhattan):</b> Automação responsável por Cálcular a distância Eucliana e Manhattan dos Valores de Hamming obtidos pela primeira automação.
+## Sobre a Automação de Visão Computacional
+### 📊📝 HNN-to-Content-Based-Hash-Retrieval
 
+- [x] Importação das Bibliotecas </b>
+- [x] Definição da Função de Ativação (Bipolar: 0 e 1) </b>
+- [x] Definição da Matriz de Recuperação de Informação (Bipolar: 0 e 1) </b>
+- [x] Criação da Estrutura da HNN, juntamente com as etapas de Treinamento e Chamada de Matriz de Recuperação de Informação</b>
+- [x] Criação das Funções para converter os valores Hash: Hash -> ASCII -> Binário (Cada caractere possui 8 bits com valores 0 e 1) e Binário -> ASCII -> Hash 
 
 ### 📈 Informações sobre o Experimento
 - A pasta Dados contém o valor das distâncias de Hamming entre o Hash Perceptivo e a Imagem Original.
 - A pasta Resultados contém os resultados do Hash Convencional, do Hash Perceptivo e dos cálculos de distância.
 - A pasta Anexos contém as imagens com as fórmulas e anotações sobre as Distâncias de Hamming, Euclidiana, Manhattan e Minkovski.
-
-
-
-
-
-
-
-
-
-Step by Step of Code:
-
-- 1: Import of Libraries
-- 2: Definition of Activation Function (In this case, Bipolar)
-- 3: Definition of a Retrive Matrix
-- 4: Create a structure of HNN, WIth the Train Step and the Call of Retrive Matrix Function
-
-After that, we have:
-- Example with a Binaty String (8 bits with values: 0 and 1)
-
-About Customized Functions to this Experiment:
-- 1: Function to Convert Character into a Binary
-- 2: Function to Convert a String Hash to Binary and Split into a List
-- 3: Function to Convert ASCII values into String
 
 To validate this experiment, we have the Hamming Distance:
 https://www.geeksforgeeks.org/hamming-distance-two-strings/
