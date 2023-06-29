@@ -1,5 +1,10 @@
 ## Recuperação de Valor Hash Diferencial com Redes Neurais de Hopfield 
-> Nesse repositório, estão armazenadas os arquivos utilizados para o desenvolvimento de um sistema de visão computacional para recuperação de valores Hash Diferenciais com Redes Neurais de Hopfield (HNN-to-Content-Based-Hash-Retrieval). Ao utilizar este sistema de visão computacional, é possível calcular o Hash diferencial de inúmeras imagens, originais e alteradas, e utilizar HNN para recuperar o valor Original.
+> Nesse repositório, estão armazenadas os arquivos utilizados para o desenvolvimento de um sistema de visão computacional para recuperação de valores Hash Diferenciais com Redes Neurais de Hopfield <a href="http://www2.decom.ufop.br/imobilis/redes-de-hopfield/"> (HNN-to-Content-Based-Hash-Retrieval) </a>. Ao utilizar este sistema de visão computacional, é possível calcular o Hash diferencial de inúmeras imagens, originais e alteradas, e utilizar HNN para recuperar o valor Original.
+
+> Outras informações informações importantes para o desenvolvimento do experimento:
+- <a href="https://www.ime.usp.br/~kellyrb/mac2166_2015/tabela_ascii.html> Tabela ASCII </a>
+- <a href="https://didatica.tech/underfitting-e-overfitting/"> Breve explicação sobre Overfitting e Underfitting </a>
+- <a href="https://ieeexplore.ieee.org/document/8623902"> Exemplo de Aplicação de HNN para Recuperar Valores Hash </a>
 
 <p align="center">
   <img src="https://media.geeksforgeeks.org/wp-content/uploads/20210216132537/Architecureofnetwork-660x377.png" alt="Hopfield Neural Network">
@@ -50,14 +55,7 @@ Para realizar os experimentos, foram desenvolvidos duas automações em Python:
 
 
 
-# HNN-to-Content-Based-Hash-Retrieval
 
-Hopfield Neural Network to Content-Bases Hash Retrieval Information 
-
-- Example of Application: https://ieeexplore.ieee.org/document/8623902
-- Hopfield Neural Network Description: http://www2.decom.ufop.br/imobilis/redes-de-hopfield/
-- Table ASCII: https://www.ime.usp.br/~kellyrb/mac2166_2015/tabela_ascii.html
-- Overfitting and Underfitting Explanation: https://didatica.tech/underfitting-e-overfitting/
 
 Step by Step of Code:
 
