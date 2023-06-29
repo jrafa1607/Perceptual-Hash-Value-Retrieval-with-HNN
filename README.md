@@ -19,8 +19,12 @@
 
 Para o desenvolvimento do experimento, foram selecionadas 5 bases de Imagens.
 Todas as bases possuem uma imagem Original e outras variações da imagem Original.
-O Objetivo do experimento é identificar que ambas as imagens, Original e Variações, possuem uma relação determinada pelo Hash Perceptivo.
-Todas as bases de imagens estão disponíveis [nesse repositório:](https://github.com/jrafa1607/HNN-to-Content-Based-Hash-Retrieval/tree/main/Image%20Database)
+O Objetivo do experimento foi Recuperar o valor Hash das Imagens Alteradas com as Redes Neurais de Hopfield. Por exemplo:
+
+- Hash Original: ABC01234
+- Hash Alterado: ABC01222
+
+O Treinamento das Redes Neurais de Hopfield foi realizado com os Valores Originais, para que assim, quando um valor alterado fosse fornecido como entrada, a saída fosse o valor correto do Hash. Todas as bases de imagens utilizadas nesse experimento estão disponíveis [nesse repositório](https://github.com/jrafa1607/HNN-to-Content-Based-Hash-Retrieval/tree/main/Image%20Database)
 
 ####  LennaDatabase e WashingtonDatabase
 As Bases LennaDatabase e WashingtonDatabase foram selecionadas da publicação: <b> Images from Digital Image Processing, 3rd ed, by Gonzalez and Woods.</b> Disponível no Link: https://imageprocessingplace.com/root_files_V3/image_databases.htm
