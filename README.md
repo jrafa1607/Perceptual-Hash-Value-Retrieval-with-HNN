@@ -12,14 +12,14 @@
   <img src="Anexos/image_database.jpeg" alt="Cloud Computing">
 </p>
 
-Para o desenvolvimento do experimento, foi utilizado 5 bases de Imagens.
+Para o desenvolvimento do experimento, foram selecionadas 5 bases de Imagens.
 Todas as bases possuem uma imagem Original e outras variações da imagem Original.
 O Objetivo do experimento é identificar que ambas as imagens, Original e Variações, possuem uma relação determinada pelo Hash Perceptivo.
-Todas as bases de imagens estão disponíveis [nesse repositório:](https://github.com/jrafa1607/Evaluation-of-Perceptual-Hash-Algorithms/tree/main/ImageDatabase)
+Todas as bases de imagens estão disponíveis [nesse repositório:](https://github.com/jrafa1607/HNN-to-Content-Based-Hash-Retrieval/tree/main/Image%20Database)
 
 ####  LennaDatabase e WashingtonDatabase
 As Bases LennaDatabase e WashingtonDatabase foram selecionadas da publicação: <b> Images from Digital Image Processing, 3rd ed, by Gonzalez and Woods.</b> Disponível no Link: https://imageprocessingplace.com/root_files_V3/image_databases.htm
-- [x] Lenna Database (21 Imagens)
+- [x] Lenna Database (20 Imagens)
 - [x] Washington Database (07 Imagens)
 
 #### PalaceDatabase e MountainDatabase
