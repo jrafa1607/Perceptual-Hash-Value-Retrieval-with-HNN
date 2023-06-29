@@ -53,8 +53,8 @@ A Base ParkDatabase foi selecionada na Base de Imagens: <b> CoMoFoD - Image Data
 - [x] Importação das Bibliotecas </b>
 - [x] Definição da Função de Ativação (Bipolar: 0 e 1) </b>
 - [x] Definição da Matriz de Recuperação de Informação (Bipolar: 0 e 1) </b>
-- [x] Criação da Estrutura da HNN, juntamente com as etapas de Treinamento e Chamada de Matriz de Recuperação de Informação</b>
-- [x] Criação das Funções para converter os valores Hash: Hash -> ASCII -> Binário (Cada caractere possui 8 bits com valores 0 e 1) e Binário -> ASCII -> Hash 
+- [x] Criação da Estrutura da HNN (Fases de Treinamento e Chamada de Matriz de Recuperação de Informação) </b>
+- [x] Criação das Funções para converter os valores Hash: Hash -> ASCII -> Binário (Cada caractere possui 8 bits com valores 0 e 1) e a conversão contrária: Binário -> ASCII -> Hash 
 
 ### 📈 Informações sobre o Experimento
 - A pasta Dados contém o valor das distâncias de Hamming entre o Hash Perceptivo e a Imagem Original.
