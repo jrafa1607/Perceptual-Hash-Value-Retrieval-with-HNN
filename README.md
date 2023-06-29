@@ -1,4 +1,4 @@
-# Recuperação de Valor Hash Diferencial com Redes Neurais de Hopfield 
+## Recuperação de Valor Hash Diferencial com Redes Neurais de Hopfield 
 > Nesse repositório, estão armazenadas os arquivos utilizados para o desenvolvimento de um sistema de visão computacional para recuperação de valores Hash Diferenciais com Redes Neurais de Hopfield (HNN-to-Content-Based-Hash-Retrieval). Ao utilizar este sistema de visão computacional, é possível calcular o Hash diferencial de inúmeras imagens, originais e alteradas, e utilizar HNN para recuperar o valor Original.
 
 
