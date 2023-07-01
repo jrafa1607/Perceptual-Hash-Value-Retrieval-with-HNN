@@ -81,6 +81,6 @@ A Base ParkDatabase foi selecionada na Base de Imagens: <b> CoMoFoD - Image Data
 ### 📈 Informações sobre o Experimento
 - O arquivo " - Experimento.xlsx" contém todos os resultados obtidos nos experimentos;
 - O arquivo " - Resultados.xlsx" contém o gráfico do resultado do experimento;
+- O arquivo " - Full Experiment" Arquivo principal com todo o experimento;
 - O arquivo " - D-Hash Calc" exemplifica o calculo do Hash Diferencial;
 - O arquivo " - Hamming Distance" Faz o cálculo da <a href="https://www.geeksforgeeks.org/hamming-distance-two-strings/"> Distância de Hamming </a> entre o Valor Hash Original e o Valor Hash Recuperado por Hopfield;
-- O arquivo " - Full Experiment" Arquivo principal com todo o experimento;
