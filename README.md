@@ -79,9 +79,8 @@ A Base ParkDatabase foi selecionada na Base de Imagens: <b> CoMoFoD - Image Data
 - [x] Recuperação da Informação Original
 
 ### 📈 Informações sobre o Experimento
-- A pasta Dados contém o valor das distâncias de Hamming entre o Hash Perceptivo e a Imagem Original.
-- A pasta Resultados contém os resultados do Hash Convencional, do Hash Perceptivo e dos cálculos de distância.
-- A pasta Anexos contém as imagens com as fórmulas e anotações sobre as Distâncias de Hamming, Euclidiana, Manhattan e Minkovski.
-
-To validate this experiment, we have the Hamming Distance:
-https://www.geeksforgeeks.org/hamming-distance-two-strings/
+- O arquivo " - Experimento.xlsx" contém todos os resultados obtidos nos experimentos;
+- O arquivo " - Resultados.xlsx" contém o gráfico do resultado do experimento;
+- O arquivo " - D-Hash Calc" exemplifica o calculo do Hash Diferencial;
+- O arquivo " - Hamming Distance" Faz o cálculo da <a href="https://www.geeksforgeeks.org/hamming-distance-two-strings/"> Distância de Hamming </a> entre o Valor Hash Original e o Valor Hash Recuperado por Hopfield;
+- O arquivo " - Full Experiment" Arquivo principal com todo o experimento;
