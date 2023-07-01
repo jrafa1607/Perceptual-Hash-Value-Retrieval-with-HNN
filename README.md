@@ -51,19 +51,30 @@ A Base ParkDatabase foi selecionada na Base de Imagens: <b> CoMoFoD - Image Data
 ### 📊📝 HNN-to-Content-Based-Hash-Retrieval
 
 - [x] Importação das Bibliotecas </b>
-- [x] Definição da Função de Ativação (Bipolar: 0 e 1) </b>
-- [x] Definição da Matriz de Recuperação de Informação </b>
+- [x] Definição da Função de Ativação da Rede Neural de Hopfield (Bipolar: 0 e 1) 
+- [x] Definição da Matriz de Recuperação de Informação da Rede Neural de Hopfield
 - [x] Definição do total de neurônios utilizados (128)
-- [x] Criação da Estrutura da HNN (Fases de Treinamento e Chamada de Matriz de Recuperação de Informação) </b>
+- [x] Criação da Estrutura da HNN (Fases de Treinamento e a Chamada da Matriz de Recuperação de Informação)
 - [x] Criação das Funções para converter os valores Hash: 
 
-#### Exemplo de Conversão: Hash -> ASCII -> Binário
+#### Exemplo de Conversão: Hash -> ASCII Binário
 "6470795b33135a38" -> "00110110 00110100 00110111 00110000 00110111 00111001 00110101 01100010 00110011 00110011 00110001 00110011 00110101 01100001 00110011 00111000"
 
-#### Exemplo de Conversão: Binário -> ASCII -> Hash
+#### Exemplo de Conversão: ASCII Binário -> Hash
 "00110110 00110100 00110111 00110000 00110111 00111001 00110101 01100010 00110011 00110011 00110001 00110011 00110101 01100001 00110011 00111000" -> "6470795b33135a38"
 
+- [x] Lista dos Valores Hash Diferencial das 5 Imagens Originais de cada Base.
 
+"7670795b33135a38" #Lenna Database
+"d3d85833daeab5a9" #Washington Database
+"e6ce8e991c149694" #Palace Database
+"402416531b191a1f" #Mountain Database
+"4659d98bcbcb9639" #Park Database
+
+- [x] Conversão do Texto do Hash para Binário
+- [x] Treinamento da Rede Neural de Hopfield com o Hash em Binário
+- [x] Input de uma Informação com Ruído
+- [x] Recuperação da Informação Original
 
 ### 📈 Informações sobre o Experimento
 - A pasta Dados contém o valor das distâncias de Hamming entre o Hash Perceptivo e a Imagem Original.
