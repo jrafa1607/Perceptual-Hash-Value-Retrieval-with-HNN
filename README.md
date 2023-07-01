@@ -65,7 +65,16 @@ A Base ParkDatabase foi selecionada na Base de Imagens: <b> CoMoFoD - Image Data
 
 - [x] Lista dos Valores Hash Diferencial das 5 Imagens Originais de cada Base.
 
--"7670795b33135a38" #Lenna Database
+<table>
+  <tr>
+    <td align="center">
+        <p>7670795b33135a38</p>
+        <sub>
+          <b>Lenna Database</b>
+        </sub>
+    </td>
+
+- "7670795b33135a38" #Lenna Database
 - "d3d85833daeab5a9" #Washington Database
 - "e6ce8e991c149694" #Palace Database
 - "402416531b191a1f" #Mountain Database
