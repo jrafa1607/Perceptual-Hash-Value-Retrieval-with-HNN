@@ -65,11 +65,11 @@ A Base ParkDatabase foi selecionada na Base de Imagens: <b> CoMoFoD - Image Data
 
 - [x] Lista dos Valores Hash Diferencial das 5 Imagens Originais de cada Base.
 
-"7670795b33135a38" #Lenna Database
-"d3d85833daeab5a9" #Washington Database
-"e6ce8e991c149694" #Palace Database
-"402416531b191a1f" #Mountain Database
-"4659d98bcbcb9639" #Park Database
+-"7670795b33135a38" #Lenna Database
+- "d3d85833daeab5a9" #Washington Database
+- "e6ce8e991c149694" #Palace Database
+- "402416531b191a1f" #Mountain Database
+- "4659d98bcbcb9639" #Park Database
 
 - [x] Conversão do Texto do Hash para Binário
 - [x] Treinamento da Rede Neural de Hopfield com o Hash em Binário
