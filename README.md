@@ -22,38 +22,34 @@ Hopfield Neural Network Training was carried out with the Original Values, so th
 
 All image bases used in this experiment are available [in this repository](https://github.com/jrafa1607/HNN-to-Content-Based-Hash-Retrieval/tree/main/Image%20Database)
 
-####  LennaDatabase e WashingtonDatabase
-As Bases LennaDatabase e WashingtonDatabase foram selecionadas da publicação: <b> Images from Digital Image Processing, 3rd ed, by Gonzalez and Woods.</b> Disponível no Link: https://imageprocessingplace.com/root_files_V3/image_databases.htm
-- [x] Lenna Database (20 Imagens)
-- [x] Washington Database (07 Imagens)
+####  LennaDatabase And WashingtonDatabase - Avaliable in: [<b> Images from Digital Image Processing, 3rd ed, by Gonzalez and Woods.</b>](https://imageprocessingplace.com/root_files_V3/image_databases.htm)
+- [x] Lenna Database (20 Images)
+- [x] Washington Database (07 Images)
 
-#### PalaceDatabase e MountainDatabase
-As Bases PalaceDatabase e MountainDatabase foram selecionadas na Base de Imagens: <b> SUID: Synthetic Underwater Image Dataset.</b> Disponível no Link: https://ieee-dataport.org/open-access/suid-synthetic-underwater-image-dataset
-- [x] PalaceDatabase (31 Imagens)
-- [x] MountainDatabase (30 Imagens)
+#### PalaceDatabase And Mountain Database - Avaliable in: [<b> SUID: Synthetic Underwater Image Dataset.</b>](https://ieee-dataport.org/open-access/suid-synthetic-underwater-image-dataset)
+- [x] PalaceDatabase (31 Images)
+- [x] MountainDatabase (30 Images)
 
-#### ParkDatabase
-A Base ParkDatabase foi selecionada na Base de Imagens: <b> CoMoFoD - Image Database for Copy-Move Forgery Detection.</b> Disponível no Link: https://www.vcl.fer.hr/comofod/download.html
-- [x] ParkDatabase (11 Imagens)
+#### ParkDatabase - Avaliable in: [<b> CoMoFoD - Image Database for Copy-Move Forgery Detection.</b>](https://www.vcl.fer.hr/comofod/download.html)
+- [x] ParkDatabase (11 Images)
 
-
-## Sobre a Automação de Visão Computacional
+## Computer Vision Automation - Principals Steps:
 ### 📊📝 HNN-to-Content-Based-Hash-Retrieval
 
-- [x] Importação das Bibliotecas </b>
-- [x] Definição da Função de Ativação da Rede Neural de Hopfield (Bipolar: 0 e 1) 
-- [x] Definição da Matriz de Recuperação de Informação da Rede Neural de Hopfield
-- [x] Definição do total de neurônios utilizados (128)
-- [x] Criação da Estrutura da HNN (Fases de Treinamento e a Chamada da Matriz de Recuperação de Informação)
-- [x] Criação das Funções para converter os valores Hash: 
+- [x] Library Importing </b>
+- [x] Definition of Activation Function to HNN: (Bipolar: -1 e 1)
+- [x] Definition of Recovery Matriz to HNN
+- [x] Definition of total of neurons (128)
+- [x] Create the HNN Architecture (Training + Recovery Matriz)
+- [x] Create the Converter Fcuntion to Hash Values: 
 
-#### Exemplo de Conversão: Hash -> ASCII Binário
+#### Example of COnversion: Hash -> Binary ASCII
 "6470795b33135a38" -> "00110110 00110100 00110111 00110000 00110111 00111001 00110101 01100010 00110011 00110011 00110001 00110011 00110101 01100001 00110011 00111000"
 
-#### Exemplo de Conversão: ASCII Binário -> Hash
+#### Example of Conversion: Binary ASCII -> Hash
 "00110110 00110100 00110111 00110000 00110111 00111001 00110101 01100010 00110011 00110011 00110001 00110011 00110101 01100001 00110011 00111000" -> "6470795b33135a38"
 
-- [x] Lista dos Valores Hash Diferencial das 5 Imagens Originais de cada Base.
+- [x] Values of the Original Images from each five bases of images.
 
 | Database | D-Hash |
 | ---      | ---       |
