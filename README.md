@@ -1,5 +1,5 @@
-## Content-based Image Retrieval using Differential Image Hashing and Hopfield Neural Network
-> In this repository are the files used for the development of a computer vision system for retrieving Differential Hash values with Hopfield Neural Networks <a href="http://www2.decom.ufop.br/imobilis/redes-de -hopfield/"> (HNN-based hash retrieval for content) </a>. Using this computer vision system, it is possible to calculate the differential Hash of countless images, original and altered, and use HNN to retrieve the original value.
+## Content-based Image Retrieval using Differential Hashing and Hopfield Neural Network
+> In this repository are the files used for the development of a computer vision system for retrieving Differential Hash values with Hopfield Neural Networks. Using this computer vision system, it is possible to calculate the differential Hash of countless images, original and altered, and use HNN to retrieve the original value.
 
 > Other important information for the development of the experiment:
 - <a href="https://www.ime.usp.br/~kellyrb/mac2166_2015/tabela_ascii.html"> ASCII Table </a>
