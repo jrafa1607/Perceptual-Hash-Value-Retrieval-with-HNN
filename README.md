@@ -64,7 +64,7 @@ All image bases used in this experiment are available [in this repository](https
 - [x] Input a Noise Information (Hash from Altered Image) to HNN
 - [x] Avaliate the retrieve for the Original Value
 
-### 📈 Info aboit the experiment and this repository.
+### 📈 Info about the experiment and this repository.
 - O arquivo " - Experimento.xlsx"- All the Results;
 - O arquivo " - Resultados.xlsx" - All the Graphics of the Results;
 - O arquivo " - Full Experiment" - Main file with all the experiment;
