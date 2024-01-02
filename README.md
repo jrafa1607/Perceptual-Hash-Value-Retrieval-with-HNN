@@ -43,7 +43,7 @@ All image bases used in this experiment are available [in this repository](https
 - [x] Create the HNN Architecture (Training + Recovery Matriz)
 - [x] Create the Converter Fcuntion to Hash Values: 
 
-#### Example of COnversion: Hash -> Binary ASCII
+#### Example of Conversion: Hash -> Binary ASCII
 "6470795b33135a38" -> "00110110 00110100 00110111 00110000 00110111 00111001 00110101 01100010 00110011 00110011 00110001 00110011 00110101 01100001 00110011 00111000"
 
 #### Example of Conversion: Binary ASCII -> Hash
@@ -59,14 +59,14 @@ All image bases used in this experiment are available [in this repository](https
 | Mountain Database | 402416531b191a1f |
 | Park Database | 4659d98bcbcb9639 |
 
-- [x] Conversão do Texto do Hash para Binário
-- [x] Treinamento da Rede Neural de Hopfield com o Hash em Binário
-- [x] Input de uma Informação com Ruído
-- [x] Recuperação da Informação Original
+- [x] Conversion of Value Hash to Binary
+- [x] HNN Training with Binary Value
+- [x] Input a Noise Information (Hash from Altered Image) to HNN
+- [x] Avaliate the retrieve for the Original Value
 
-### 📈 Informações sobre o Experimento
-- O arquivo " - Experimento.xlsx" contém todos os resultados obtidos nos experimentos;
-- O arquivo " - Resultados.xlsx" contém o gráfico do resultado do experimento;
-- O arquivo " - Full Experiment" Arquivo principal com todo o experimento;
-- O arquivo " - D-Hash Calc" exemplifica o calculo do Hash Diferencial;
-- O arquivo " - Hamming Distance" Faz o cálculo da <a href="https://www.geeksforgeeks.org/hamming-distance-two-strings/"> Distância de Hamming </a> entre o Valor Hash Original e o Valor Hash Recuperado por Hopfield;
+### 📈 Info aboit the experiment and this repository.
+- O arquivo " - Experimento.xlsx"- All the Results;
+- O arquivo " - Resultados.xlsx" - All the Graphics of the Results;
+- O arquivo " - Full Experiment" - Main file with all the experiment;
+- O arquivo " - D-Hash Calc" - Example of Differential Hash Application
+- O arquivo " - Hamming Distance" - Make the <a href="https://www.geeksforgeeks.org/hamming-distance-two-strings/"> Hamming Distance Calc </a> between the Hash Value Original and the Hash Value retrieved by HNN;
