@@ -41,7 +41,7 @@ All image bases used in this experiment are available [in this folder(https://gi
 - [x] Definition of Recovery Matriz to HNN
 - [x] Definition of total of neurons (128)
 - [x] Create the HNN Architecture (Training + Recovery Matriz)
-- [x] Create the Converter Fcuntion to Hash Values: 
+- [x] Create the Converter Fcuntion between Hash Values and Binary Value: 
 
 #### Example of Conversion: Hash -> Binary ASCII
 "6470795b33135a38" -> "00110110 00110100 00110111 00110000 00110111 00111001 00110101 01100010 00110011 00110011 00110001 00110011 00110101 01100001 00110011 00111000"
