@@ -1,28 +1,26 @@
-## Recuperação de Valor Hash Diferencial com Redes Neurais de Hopfield 
-> Nesse repositório, estão armazenadas os arquivos utilizados para o desenvolvimento de um sistema de visão computacional para recuperação de valores Hash Diferenciais com Redes Neurais de Hopfield <a href="http://www2.decom.ufop.br/imobilis/redes-de-hopfield/"> (HNN-to-Content-Based-Hash-Retrieval) </a>. Ao utilizar este sistema de visão computacional, é possível calcular o Hash diferencial de inúmeras imagens, originais e alteradas, e utilizar HNN para recuperar o valor Original.
+## Content-based Image Retrieval using Differential Image Hashing and Hopfield Neural Network
+> In this repository are the files used for the development of a computer vision system for retrieving Differential Hash values with Hopfield Neural Networks <a href="http://www2.decom.ufop.br/imobilis/redes-de -hopfield/"> (HNN-based hash retrieval for content) </a>. Using this computer vision system, it is possible to calculate the differential Hash of countless images, original and altered, and use HNN to retrieve the original value.
 
-> Outras informações informações importantes para o desenvolvimento do experimento:
-- <a href="https://www.ime.usp.br/~kellyrb/mac2166_2015/tabela_ascii.html"> Tabela ASCII </a>
-- <a href="https://didatica.tech/underfitting-e-overfitting/"> Breve explicação sobre Overfitting e Underfitting </a>
-- <a href="https://ieeexplore.ieee.org/document/8623902"> Exemplo de Aplicação de HNN para Recuperar Valores Hash </a>
+> Other important information for the development of the experiment:
+- <a href="https://www.ime.usp.br/~kellyrb/mac2166_2015/tabela_ascii.html"> ASCII Table </a>
+- <a href="https://didatica.tech/underfitting-e-overfitting/"> What is Overfitting and Underfitting? </a>
+- <a href="https://ieeexplore.ieee.org/document/8623902"> IEEE Paper - Exemple of HNN application to retrieval Perceptual Hash </a>
 
-## Experimento de Visão Computacional
-### 💻 Base de Imagens para os Experimentos
+## Computer Vision Experiment
+### 💻 Image Bases for Experiments
 
-Para o desenvolvimento do experimento, foram selecionadas 5 bases de Imagens.
-Todas as bases possuem uma imagem Original e outras variações da imagem Original.
-O Objetivo do experimento foi Recuperar o valor Hash das Imagens Alteradas com as Redes Neurais de Hopfield. Por exemplo:
+For the development of the experiment, 5 Image databases were selected. All databases have an Original image and other variations of the Original image. The objective of the experiment was to recover the hash value of altered images with Hopfield Neural Networks. For example:
 
-- Hash Original: ABC01234
-- Hash Alterado: ABC01222
+- Original Hash: ABC01234
+- Altered  Hash: ABC01222
 
-O Treinamento das Redes Neurais de Hopfield foi realizado com os Valores Originais, para que assim, quando um valor alterado fosse fornecido como entrada, a saída fosse o valor correto do Hash.
+Hopfield Neural Network Training was carried out with the Original Values, so that when a changed value was provided as input, the output would be the correct Hash value.
 
-- Hash Original: ABC01234
-- Hash Alterado: ABC01222
-- Hash Recuperado com Hopfield: ABC01234
+- Original Hash: ABC01234
+- Altered  Hash: ABC01222
+- Retrived Hash with HNN: ABC01234
 
-Todas as bases de imagens utilizadas nesse experimento estão disponíveis [nesse repositório](https://github.com/jrafa1607/HNN-to-Content-Based-Hash-Retrieval/tree/main/Image%20Database)
+All image bases used in this experiment are available [in this repository](https://github.com/jrafa1607/HNN-to-Content-Based-Hash-Retrieval/tree/main/Image%20Database)
 
 ####  LennaDatabase e WashingtonDatabase
 As Bases LennaDatabase e WashingtonDatabase foram selecionadas da publicação: <b> Images from Digital Image Processing, 3rd ed, by Gonzalez and Woods.</b> Disponível no Link: https://imageprocessingplace.com/root_files_V3/image_databases.htm
