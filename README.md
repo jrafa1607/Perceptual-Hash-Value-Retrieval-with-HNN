@@ -2,7 +2,7 @@
 > In this repository are the files used for the development of a computer vision system for retrieving Differential Hash values with Hopfield Neural Networks. Using this computer vision system, it is possible to calculate the differential Hash of countless images, original and altered, and use HNN to retrieve the original value. Other important information for the development of the experiment:
 - <a href="https://www.ime.usp.br/~kellyrb/mac2166_2015/tabela_ascii.html"> ASCII Table </a>
 - <a href="https://didatica.tech/underfitting-e-overfitting/"> What is Overfitting and Underfitting? </a>
-- <a href="https://ieeexplore.ieee.org/document/8623902"> IEEE Paper - Exemple of HNN application to retrieval Perceptual Hash </a>
+- <a href="https://ieeexplore.ieee.org/document/8623902"> IEEE Paper - Example of HNN application to retrieval Perceptual Hash </a>
 
 ## Computer Vision Experiment
 ### 💻 Experiment Resume
