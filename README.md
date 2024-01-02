@@ -20,7 +20,7 @@ Hopfield Neural Network Training was carried out with the Original Values, so th
 
 ### 💻 Image Bases for Experiments
 
-All image bases used in this experiment are available [in this repository](https://github.com/jrafa1607/HNN-to-Content-Based-Hash-Retrieval/tree/main/Image%20Database)
+All image bases used in this experiment are available [in this folder(https://github.com/jrafa1607/HNN-to-Content-Based-Hash-Retrieval/tree/main/Image%20Database)
 
 ####  LennaDatabase And WashingtonDatabase - Avaliable in: [<b> Images from Digital Image Processing, 3rd ed, by Gonzalez and Woods.</b>](https://imageprocessingplace.com/root_files_V3/image_databases.htm)
 - [x] Lenna Database (20 Images)
