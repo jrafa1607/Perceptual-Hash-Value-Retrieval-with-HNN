@@ -65,8 +65,8 @@ All image bases used in this experiment are available [in this folder(https://gi
 - [x] Avaliate the retrieve for the Original Value
 
 ### 📈 Info about the experiment.
-- O arquivo " - Experimento.xlsx"- All the Results;
-- O arquivo " - Resultados.xlsx" - All the Graphics of the Results;
-- O arquivo " - Full Experiment" - Main file with all the experiment;
-- O arquivo " - D-Hash Calc" - Example of Differential Hash Application
-- O arquivo " - Hamming Distance" - Make the <a href="https://www.geeksforgeeks.org/hamming-distance-two-strings/"> Hamming Distance Calc </a> between the Hash Value Original and the Hash Value retrieved by HNN;
+- The file " - Experimento.xlsx"- All the Results;
+- The file " - Resultados.xlsx" - All the Graphics of the Results;
+- The file " - Full Experiment" - Main file with all the experiment;
+- The file " - D-Hash Calc" - Example of Differential Hash Application
+- The file " - Hamming Distance" - Make the <a href="https://www.geeksforgeeks.org/hamming-distance-two-strings/"> Hamming Distance Calc </a> between the Hash Value Original and the Hash Value retrieved by HNN;
