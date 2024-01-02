@@ -1,13 +1,11 @@
 ## Content-based Image Retrieval using Differential Hashing and Hopfield Neural Network
-> In this repository are the files used for the development of a computer vision system for retrieving Differential Hash values with Hopfield Neural Networks. Using this computer vision system, it is possible to calculate the differential Hash of countless images, original and altered, and use HNN to retrieve the original value.
-
-> Other important information for the development of the experiment:
+> In this repository are the files used for the development of a computer vision system for retrieving Differential Hash values with Hopfield Neural Networks. Using this computer vision system, it is possible to calculate the differential Hash of countless images, original and altered, and use HNN to retrieve the original value. Other important information for the development of the experiment:
 - <a href="https://www.ime.usp.br/~kellyrb/mac2166_2015/tabela_ascii.html"> ASCII Table </a>
 - <a href="https://didatica.tech/underfitting-e-overfitting/"> What is Overfitting and Underfitting? </a>
 - <a href="https://ieeexplore.ieee.org/document/8623902"> IEEE Paper - Exemple of HNN application to retrieval Perceptual Hash </a>
 
 ## Computer Vision Experiment
-### 💻 Image Bases for Experiments
+### 💻 Experiment Resume
 
 For the development of the experiment, 5 Image databases were selected. All databases have an Original image and other variations of the Original image. The objective of the experiment was to recover the hash value of altered images with Hopfield Neural Networks. For example:
 
@@ -19,6 +17,8 @@ Hopfield Neural Network Training was carried out with the Original Values, so th
 - Original Hash: ABC01234
 - Altered  Hash: ABC01222
 - Retrived Hash with HNN: ABC01234
+
+### 💻 Image Bases for Experiments
 
 All image bases used in this experiment are available [in this repository](https://github.com/jrafa1607/HNN-to-Content-Based-Hash-Retrieval/tree/main/Image%20Database)
 
@@ -33,7 +33,7 @@ All image bases used in this experiment are available [in this repository](https
 #### ParkDatabase - Avaliable in: [<b> CoMoFoD - Image Database for Copy-Move Forgery Detection.</b>](https://www.vcl.fer.hr/comofod/download.html)
 - [x] ParkDatabase (11 Images)
 
-## Computer Vision Automation - Principals Steps:
+## Computer Vision Automation - Main Steps:
 ### 📊📝 HNN-to-Content-Based-Hash-Retrieval
 
 - [x] Library Importing </b>
