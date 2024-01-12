@@ -24,13 +24,9 @@ Hopfield Neural Network Training was carried out with the Original Values, so th
 All image bases used in this experiment are available [in this folder](https://github.com/jrafa1607/HNN-to-Content-Based-Hash-Retrieval/tree/main/Image%20Database)
 
 - [x] LennaDatabase - Avaliable in: [<b> Images from Digital Image Processing, 3rd ed, by Gonzalez and Woods.</b>](https://imageprocessingplace.com/root_files_V3/image_databases.htm)
-
 - [x] WashingtonDatabase - Avaliable in: [<b> Images from Digital Image Processing, 3rd ed, by Gonzalez and Woods.</b>](https://imageprocessingplace.com/root_files_V3/image_databases.htm)
-
 - [x] PalaceDatabase - Avaliable in: [<b> SUID: Synthetic Underwater Image Dataset.</b>](https://ieee-dataport.org/open-access/suid-synthetic-underwater-image-dataset)
-
 - [x] Mountain Database - Avaliable in: [<b> SUID: Synthetic Underwater Image Dataset.</b>](https://ieee-dataport.org/open-access/suid-synthetic-underwater-image-dataset)
-
 - [x] ParkDatabase - Avaliable in: [<b> CoMoFoD - Image Database for Copy-Move Forgery Detection.</b>](https://www.vcl.fer.hr/comofod/download.html)
 
 ## Computer Vision Automation - Main Steps:
