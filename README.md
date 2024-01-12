@@ -23,16 +23,15 @@ Hopfield Neural Network Training was carried out with the Original Values, so th
 
 All image bases used in this experiment are available [in this folder](https://github.com/jrafa1607/HNN-to-Content-Based-Hash-Retrieval/tree/main/Image%20Database)
 
-####  LennaDatabase And WashingtonDatabase - Avaliable in: [<b> Images from Digital Image Processing, 3rd ed, by Gonzalez and Woods.</b>](https://imageprocessingplace.com/root_files_V3/image_databases.htm)
-- [x] Lenna Database (20 Images)
-- [x] Washington Database (07 Images)
+####  - LennaDatabase - Avaliable in: [<b> Images from Digital Image Processing, 3rd ed, by Gonzalez and Woods.</b>](https://imageprocessingplace.com/root_files_V3/image_databases.htm)
 
-#### PalaceDatabase And Mountain Database - Avaliable in: [<b> SUID: Synthetic Underwater Image Dataset.</b>](https://ieee-dataport.org/open-access/suid-synthetic-underwater-image-dataset)
-- [x] PalaceDatabase (31 Images)
-- [x] MountainDatabase (30 Images)
+####  - WashingtonDatabase - Avaliable in: [<b> Images from Digital Image Processing, 3rd ed, by Gonzalez and Woods.</b>](https://imageprocessingplace.com/root_files_V3/image_databases.htm)
 
-#### ParkDatabase - Avaliable in: [<b> CoMoFoD - Image Database for Copy-Move Forgery Detection.</b>](https://www.vcl.fer.hr/comofod/download.html)
-- [x] ParkDatabase (11 Images)
+#### - PalaceDatabase - Avaliable in: [<b> SUID: Synthetic Underwater Image Dataset.</b>](https://ieee-dataport.org/open-access/suid-synthetic-underwater-image-dataset)
+
+#### - Mountain Database - Avaliable in: [<b> SUID: Synthetic Underwater Image Dataset.</b>](https://ieee-dataport.org/open-access/suid-synthetic-underwater-image-dataset)
+
+#### - ParkDatabase - Avaliable in: [<b> CoMoFoD - Image Database for Copy-Move Forgery Detection.</b>](https://www.vcl.fer.hr/comofod/download.html)
 
 ## Computer Vision Automation - Main Steps:
 ### 📊📝 HNN-to-Content-Based-Hash-Retrieval
