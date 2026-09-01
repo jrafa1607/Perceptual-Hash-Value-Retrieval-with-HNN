@@ -1,4 +1,4 @@
-## Content-based Image Retrieval using Differential Hashing and Hopfield Neural Network
+### Perceptual Hash Value Retrieval for Image Forensics: A Hopfield Neural Network Application
 > In this repository are the files used for the development of a computer vision system for retrieving Differential Hash values with Hopfield Neural Networks. Using this computer vision system, it is possible to calculate the differential Hash of countless images, original and altered, and use HNN to retrieve the original value. Other important information for the development of the experiment:
 - <a href="https://www.ime.usp.br/~kellyrb/mac2166_2015/tabela_ascii.html"> ASCII Table </a>
 - <a href="https://didatica.tech/underfitting-e-overfitting/"> What is Overfitting and Underfitting? </a>
