@@ -68,7 +68,7 @@ The project relies on the following core libraries and programming languages:
 
 * **Python:** The core programming language used for data analysis, neural network modeling, and scripting.
 * **ImageHash:** Library for image hashing and perceptual similarity calculations (`dHash`).
-* **NumPy:** Essential for efficient numerical operations, matrix manipulations, and clearing diagonal weights in Hebbian learning.
+* **NumPy:** Used for numerical operations, matrix manipulations, and clearing diagonal weights in Hebbian learning.
 * **Pandas:** Utilized for structuring, cleaning, and analyzing tabular experimental data and success/error metrics.
 * **PIL (Pillow):** Python Imaging Library used for opening, manipulating, and processing various image formats.
 
