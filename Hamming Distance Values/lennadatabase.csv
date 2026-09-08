@@ -1,0 +1,21 @@
+Images Database;A. Hash Hamming;P. Hash Hamming;D. Hash Hamming;W. Hash Hamming;CP Hash Hamming
+Imagem Original;0;0;0;0;0
+Imagem em Bmp;0;0;0;0;0.5
+Imagem em Png;0;0;0;0;0.5
+Imagem em Tiff;0;0;0;0;0.5
+Gaussiana 3x3;0;0;0;0;0.88
+Gaussiana 7x7;0;0;0;0;1.13
+Mediana 7x7;0;0;0;0;1.25
+Mediana 3x3;0;0;0;0;1.5
+Média 3x3;0;0;0;0;2.88
+Média 7x7;0;0;0;0;2.88
+Pouca alteração;1;0;0;0;0.88
+Adição de Texto;3;2;0;0;0.63
+Escala de Cinza;0;0;0;0;0.5
+Ruído Sal e Pimenta;0;0;1;2;13.63
+Bordas Enfatizadas;0;0;2;0;12
+Muita alteração;10;8;2;6;12.88
+Binarização com OTSU;7;10;5;5;13.13
+Metade Alterada;14;10;8;14;14.5
+Efeito Espelho;14;16;14;14;14.75
+Adição de Objetos;7;6;5;6;15
