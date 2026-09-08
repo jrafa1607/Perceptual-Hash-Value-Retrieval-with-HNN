@@ -15,15 +15,15 @@ The included implementation performs the following:
 
 ---
 
-### Image Databases Included
+### Image Databases
 
-| Database | Total Images | Dataset Role / Source |
-| --- | --- | --- |
-| **Lenna** | 20 (1 original, 19 variations) | [ Images from Digital Image Processing, 3rd ed, by Gonzalez and Woods.](https://imageprocessingplace.com/root_files_V3/image_databases.htm) |
-| **Washington** | 7 (1 original, 6 variations) | [ Images from Digital Image Processing, 3rd ed, by Gonzalez and Woods.](https://imageprocessingplace.com/root_files_V3/image_databases.htm) |
-| **Palace** | 31 (1 original, 30 variations) | [ SUID: Synthetic Underwater Image Dataset.](https://ieee-dataport.org/open-access/suid-synthetic-underwater-image-dataset) |
-| **Mountain** | 30 (1 original, 29 variations) | [ SUID: Synthetic Underwater Image Dataset.](https://ieee-dataport.org/open-access/suid-synthetic-underwater-image-dataset) |
-| **Park** | 11 (1 original, 10 variations) | [ CoMoFoD - Image Database for Copy-Move Forgery Detection.](https://www.vcl.fer.hr/comofod/download.html) |
+| Database | Dataset Role / Source |
+| --- | --- |
+| **Lenna** | [ Images from Digital Image Processing, 3rd ed, by Gonzalez and Woods.](https://imageprocessingplace.com/root_files_V3/image_databases.htm) |
+| **Washington** | [ Images from Digital Image Processing, 3rd ed, by Gonzalez and Woods.](https://imageprocessingplace.com/root_files_V3/image_databases.htm) |
+| **Palace** | [ SUID: Synthetic Underwater Image Dataset.](https://ieee-dataport.org/open-access/suid-synthetic-underwater-image-dataset) |
+| **Mountain** | [ SUID: Synthetic Underwater Image Dataset.](https://ieee-dataport.org/open-access/suid-synthetic-underwater-image-dataset) |
+| **Park** | [ CoMoFoD - Image Database for Copy-Move Forgery Detection.](https://www.vcl.fer.hr/comofod/download.html) |
 
 ---
 
