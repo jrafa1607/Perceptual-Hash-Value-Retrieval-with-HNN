@@ -15,7 +15,7 @@ The included implementation performs the following:
 
 ---
 
-### Image Databases
+#### Image Databases
 
 | Database | Dataset Role / Source |
 | --- | --- |
@@ -27,7 +27,7 @@ The included implementation performs the following:
 
 ---
 
-### Usage
+#### Usage
 To run the analysis and execute the Hopfield Neural Network perceptual hash retrieval model:
 
 1. Ensure you have the required libraries installed:
@@ -63,7 +63,7 @@ print("Retrieved Hash:", retrieved_text)
 
 ---
 
-### 🧰 Tools & Technologies
+#### 🧰 Tools & Technologies
 The project relies on the following core libraries and programming languages:
 
 * **Python:** The core programming language used for data analysis, neural network modeling, and scripting.
@@ -74,8 +74,7 @@ The project relies on the following core libraries and programming languages:
 
 ---
 
-### 🔒🛠️ Intellectual Property (IP) Protection ( License, Restrictions, and Copyright )
-
+#### 🔒🛠️ Intellectual Property (IP) Protection ( License, Restrictions, and Copyright )
 All source code, documentation, and research methodologies contained in this repository are the exclusive Intellectual Property of the author. All rights reserved. Use of this content for academic or professional purposes must include proper citation and attribution to the original research.
 
 **Copyright © 2026 João Rafael Gonçalves Evangelista.**
