@@ -1,4 +1,4 @@
-### 📊📝 Perceptual Hash Value Retrieval for Image Forensics: A Hopfield Neural Network Application
+### Perceptual Hash Value Retrieval for Image Forensics: A Hopfield Neural Network Application
 
 This repository contains the source code focused on evaluating **Perceptual Hashing** combined with **Hopfield Neural Networks (HNN)** for image forensics and digital evidence retrieval.
 The objective is to investigate how HNN can accurately restore corrupted perceptual hash signatures derived from altered or manipulated images. About the methodology, the application extracts features using **Differential Hash** (`dHash`) and trains an HNN using Hebbian learning rules. It evaluates error margins through **Hamming Distance** ($d_H$) analysis across 94 test samples distributed among distinct image databases.
